@@ -1,0 +1,10 @@
+/* Home Page Specific Styles - Additional overrides if needed */
+
+.home-page {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+section {
+  scroll-margin-top: 70px;
+}
